@@ -19,11 +19,11 @@
 
 > Understand the system. Break the limits.
 
-- 🔬 **네트워크 리버싱** 및 **프로토콜 분석** 중심의 보안 리서치를 하고 있습니다
-- 💻 **프론트엔드부터 백엔드까지** 풀스택 개발이 가능합니다
-- 🛡️ 다양한 보안 도구를 활용한 **취약점 분석 및 침투 테스트**에 관심이 많습니다
-- 🤖 **자동화 도구 및 봇** 설계·개발 경험이 있습니다
-- ⚡ 새로운 기술 스택과 공격 벡터를 끊임없이 탐구하고 있습니다
+- 🔬 **Network Reversing** 및 **Protocol Analysis** 기반의 Security Research를 수행하고 있습니다
+- 💻 **Frontend / Backend** 를 아우르는 Full-Stack Development가 가능합니다
+- 🛡️ Packet Capture, Fuzzing, Penetration Testing 등 다양한 보안 기법에 관심이 많습니다
+- 🤖 **Automation Tool & Bot** 아키텍처 설계 및 개발 경험이 있습니다
+- ⚡ 새로운 Tech Stack과 Attack Vector를 끊임없이 탐구하고 있습니다
 
 -----
 
@@ -32,16 +32,19 @@
 <div align="center">
 
 <h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,kotlin&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,kotlin,bash&theme=dark" alt="Languages"/>
 
-<h3>Frontend & Backend</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb&theme=dark" alt="Frontend & Backend"/>
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="Frontend"/>
+
+<h3>Backend & Database</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,electron,mongodb&theme=dark" alt="Backend & Database"/>
 
 <h3>Security & Reversing</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite,kali&theme=dark" alt="Security" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite,kali,selenium&theme=dark" alt="Security" height="48"/>
 
 <h3>DevOps & Tools</h3>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" alt="DevOps & Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,aws&theme=dark" alt="DevOps & Tools"/>
 
 </div>
 
