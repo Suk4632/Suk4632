@@ -1,18 +1,21 @@
 <div align="center">
 
-<!-- Typing SVG - Different font, different color, different lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Cyber+Coonk+%F0%9F%92%80;Reverse+Engineer+%7C+Full-Stack+Dev;Packets+don't+lie+%F0%9F%94%8D" alt="Typing SVG" /></a>
+<!-- Header - Animated Typing SVG -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Reverse+Engineer+%F0%9F%94%8D;Full-Stack+Developer+%F0%9F%92%BB;Always+Exploring+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Profile Views - flat-square style (hajunwon uses for-the-badge) -->
-<img src="https://komarev.com/ghpvc/?username=Suk4632&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Profile Views Counter -->
+
+<img src="https://komarev.com/ghpvc/?username=Suk4632&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
----
+-----
 
 <h2>🧑‍💻 About Me</h2>
+
 
 > Understand the system. Break the limits.
 
@@ -22,7 +25,7 @@
 - 🤖 **자동화 도구 및 봇** 설계·개발 경험이 있습니다
 - ⚡ 새로운 기술 스택과 공격 벡터를 끊임없이 탐구하고 있습니다
 
----
+-----
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -42,24 +45,24 @@
 
 </div>
 
----
+-----
 
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suk4632&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suk4632&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suk4632&theme=tokyonight" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suk4632&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suk4632&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suk4632&theme=tokyonight&utcOffset=9" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suk4632&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suk4632&theme=tokyonight&utcOffset=9" height="180"/>
 
 </div>
 
----
+-----
 
 <h2>📈 Activity</h2>
 
@@ -69,7 +72,7 @@
 
 </div>
 
----
+-----
 
 <h2>📬 Contact</h2>
 
